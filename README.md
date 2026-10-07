@@ -4,6 +4,14 @@
 
 All data is real, from the City of Toronto Open Data Portal under the Open Government Licence. Written in my own voice.
 
+## Visuals
+
+![63% of lost minutes are people-related](images/05-1.png)
+
+![The delay sits on the busiest line](images/05-2.png)
+
+![No single station is a hotspot](images/05-3.png)
+
 ## The problem
 I took every subway delay Toronto logged over 2024, 2025, and 2026 to date and worked out where the lost time actually comes from. The TTC records each delay with a cause, a station, and the minutes lost, but it treats delay as one big number, so it cannot say which causes, lines, or times to target. I wanted to break that number apart and end with a short list of where the agency should act.
 
